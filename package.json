@@ -1,0 +1,44 @@
+{
+  "dependencies": {
+    "discord-hybrid-sharding": "^2.2.3",
+    "discord.js": "^14.15.3",
+    "indomitable": "^4.1.0",
+    "mongoose": "^8.5.2",
+    "ms": "^2.1.3",
+    "shoukaku": "^4.0.1",
+    "signale": "^1.4.0",
+    "systeminformation": "^5.23.5"
+  },
+  "devDependencies": {
+    "dokdo": "^1.0.1",
+    "nodemon": "^3.1.4"
+  },
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "name": "lyra-main",
+  "version": "1.0.0",
+  "description": "A discord Music bot made with Lavalink (Shoukaky v4)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Punit9464/Lyra-Main.git"
+  },
+  "keywords": [
+    "discord",
+    "music",
+    "music-bot",
+    "discord-bot",
+    "discord.js",
+    "shoukaku",
+    "spotify",
+    "youtube"
+  ],
+  "author": "Punit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Punit9464/Lyra-Main/issues"
+  },
+  "homepage": "https://github.com/Punit9464/Lyra-Main#readme"
+}
