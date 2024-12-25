@@ -1,3 +1,6 @@
-# Leak By Rana.ly 
+# Fucked Lyra Music Bot 
+> Leaked By Manas4sure
+> Contributor : rana.ly
 
-> FUCKED LYRA MUSIC
+# My Links
+> https://ofcyourmanas.xyz
